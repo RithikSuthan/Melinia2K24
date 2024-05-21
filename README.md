@@ -1,6 +1,3 @@
-Sure, here's the updated README.md file with the correct contact email:
-
-```markdown
 # Melinia 2K24 Official Website
 
 Welcome to the official repository for the **Melinia 2K24** website, hosted by the Department of Computing at Coimbatore Institute of Technology.
@@ -87,14 +84,6 @@ For any inquiries or feedback, please contact:
 ## Deployment
 
 The website is deployed at: [https://melinia24.tech](https://melinia24.tech)
-
----
-
-Thank you for visiting the Melinia 2K24 official website repository!
-```
-
-This README file now includes the correct contact email and provides all necessary information for your project.
-
 
 ![image](https://github.com/RithikSuthan/Melinia2K24/assets/72434153/d3d3d796-cf81-4d4e-8856-fd515c9ea475)
 
