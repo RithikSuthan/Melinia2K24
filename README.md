@@ -94,3 +94,7 @@ Thank you for visiting the Melinia 2K24 official website repository!
 ```
 
 This README file now includes the correct contact email and provides all necessary information for your project.
+
+
+![image](https://github.com/RithikSuthan/Melinia2K24/assets/72434153/d3d3d796-cf81-4d4e-8856-fd515c9ea475)
+
